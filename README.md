@@ -1,6 +1,6 @@
 # xd_to_flutter
 
-A new Flutter project.
+Adobe XD to Flutter Example
 
 ## Getting Started
 
